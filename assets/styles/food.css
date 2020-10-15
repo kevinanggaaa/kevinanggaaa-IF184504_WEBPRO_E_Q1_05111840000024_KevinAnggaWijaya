@@ -19,6 +19,11 @@
   letter-spacing: 1px;
 }
 
+.textblack {
+  color: #000000;
+  letter-spacing: 1px;
+}
+
 .nav {
   position: fixed;
   top: 0;
